@@ -55,7 +55,7 @@ while True:
 ```
 
 ## OUPUT
-<img width="1920" height="1080" alt="3 C" src="https://github.com/user-attachments/assets/11e7326e-f122-4846-a911-1d8a923e61e6" />
+<img width="1920" height="1080" alt="3 C" src="https://github.com/user-attachments/assets/6537c4c3-a8ae-4229-8767-40771201c079" />
 
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
